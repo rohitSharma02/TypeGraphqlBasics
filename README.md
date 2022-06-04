@@ -1,4 +1,5 @@
 # TypeGraphqlBasics
+Learning Source: https://www.youtube.com/watch?v=bqdEXPzjzQ4&list=PLN3n1USn4xlma1bBu3Tloe4NyYn9Ko8Gs&index=3
 ## Project setup from scratch steps:
 1. npm init -> this will setup package.json file
 2. npm install apollo-server-express express graphql reflect-metadata type-graphql --> this will install node_modules which will contain all the modules mentioned in the command.
